@@ -1,0 +1,6 @@
+epoch,train_loss,train_acc,val_loss,val_acc,epoch_time_sec,throughput_img_per_sec,model,experiment_tag,sm_allocation,device,hostname
+1,1.7424,0.3063,1.5174,0.3586,37.14,1346.1,vgg16,concurrent-30-30-40-vgg16,40pct-concurrent,cuda,hamta
+2,1.2565,0.5435,1.0585,0.6347,36.49,1370.3,vgg16,concurrent-30-30-40-vgg16,40pct-concurrent,cuda,hamta
+3,1.0065,0.6488,0.9622,0.6629,31.86,1569.6,vgg16,concurrent-30-30-40-vgg16,40pct-concurrent,cuda,hamta
+4,0.9024,0.6914,0.8382,0.7176,30.08,1662.2,vgg16,concurrent-30-30-40-vgg16,40pct-concurrent,cuda,hamta
+5,0.8269,0.7211,0.8710,0.7132,30.38,1645.9,vgg16,concurrent-30-30-40-vgg16,40pct-concurrent,cuda,hamta

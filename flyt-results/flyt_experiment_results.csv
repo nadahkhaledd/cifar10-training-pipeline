@@ -1,0 +1,7 @@
+configuration,sm_count,gflops,verification,notes
+native-baseline,142,5626,passed,no Flyt
+flyt-100pct,142,5193,passed,single job through Flyt
+flyt-50-50-job1,71,2729,passed,concurrent with job2
+flyt-50-50-job2,71,2694,passed,concurrent with job1
+flyt-30-70-job1-30pct,43,1698,passed,concurrent with job2
+flyt-30-70-job2-70pct,99,3701,passed,concurrent with job1

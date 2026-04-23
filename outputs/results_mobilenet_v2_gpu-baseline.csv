@@ -1,0 +1,6 @@
+epoch,train_loss,train_acc,val_loss,val_acc,epoch_time_sec,throughput_img_per_sec,model,experiment_tag,sm_allocation,device,hostname
+1,0.6026,0.7966,0.4420,0.8518,17.41,2871.3,mobilenet_v2,gpu-baseline,native,cuda,d811dc9c70cc
+2,0.3734,0.8718,0.3628,0.8764,17.60,2840.2,mobilenet_v2,gpu-baseline,native,cuda,d811dc9c70cc
+3,0.3012,0.8952,0.3564,0.8829,18.26,2737.9,mobilenet_v2,gpu-baseline,native,cuda,d811dc9c70cc
+4,0.2679,0.9088,0.3432,0.8863,17.74,2817.9,mobilenet_v2,gpu-baseline,native,cuda,d811dc9c70cc
+5,0.2370,0.9182,0.3391,0.8860,17.60,2841.0,mobilenet_v2,gpu-baseline,native,cuda,d811dc9c70cc

@@ -1,0 +1,6 @@
+epoch,train_loss,train_acc,val_loss,val_acc,epoch_time_sec,throughput_img_per_sec,model,experiment_tag,sm_allocation,device,hostname
+1,0.7090,0.7631,0.5742,0.8048,8.42,5939.2,resnet18,concurrent-50-50-resnet,50pct-concurrent,cuda,hamta
+2,0.4726,0.8420,0.5157,0.8321,8.53,5862.3,resnet18,concurrent-50-50-resnet,50pct-concurrent,cuda,hamta
+3,0.3823,0.8717,0.4840,0.8399,8.67,5764.8,resnet18,concurrent-50-50-resnet,50pct-concurrent,cuda,hamta
+4,0.3321,0.8899,0.6274,0.7994,10.24,4880.4,resnet18,concurrent-50-50-resnet,50pct-concurrent,cuda,hamta
+5,0.2870,0.9026,0.4780,0.8509,11.91,4198.9,resnet18,concurrent-50-50-resnet,50pct-concurrent,cuda,hamta

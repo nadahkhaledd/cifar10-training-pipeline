@@ -1,0 +1,2 @@
+epoch,train_loss,train_acc,val_loss,val_acc,epoch_time_sec,throughput_img_per_sec,model,experiment_tag,sm_allocation,device,hostname
+1,1.1597,0.6124,0.9829,0.6910,6.19,807.7,resnet18,cpu-test,native,cpu,84cdbb3e5841

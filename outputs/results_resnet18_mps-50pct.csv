@@ -1,0 +1,6 @@
+epoch,train_loss,train_acc,val_loss,val_acc,epoch_time_sec,throughput_img_per_sec,model,experiment_tag,sm_allocation,device,hostname
+1,0.7217,0.7609,0.5826,0.8013,10.83,4618.8,resnet18,mps-50pct,50pct,cuda,445f6c236768
+2,0.4759,0.8403,0.4804,0.8390,12.56,3979.9,resnet18,mps-50pct,50pct,cuda,445f6c236768
+3,0.3858,0.8707,0.4544,0.8484,8.09,6183.3,resnet18,mps-50pct,50pct,cuda,445f6c236768
+4,0.3281,0.8896,0.4467,0.8521,8.80,5680.1,resnet18,mps-50pct,50pct,cuda,445f6c236768
+5,0.2811,0.9053,0.4156,0.8636,10.30,4852.7,resnet18,mps-50pct,50pct,cuda,445f6c236768

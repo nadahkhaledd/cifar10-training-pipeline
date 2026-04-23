@@ -1,0 +1,6 @@
+epoch,train_loss,train_acc,val_loss,val_acc,epoch_time_sec,throughput_img_per_sec,model,experiment_tag,sm_allocation,device,hostname
+1,0.6017,0.7965,0.4048,0.8619,12.87,3883.5,mobilenet_v2,host-70pct,70pct,cuda,hamta
+2,0.3787,0.8702,0.3567,0.8798,15.83,3159.5,mobilenet_v2,host-70pct,70pct,cuda,hamta
+3,0.3081,0.8946,0.3416,0.8836,16.88,2962.2,mobilenet_v2,host-70pct,70pct,cuda,hamta
+4,0.2712,0.9059,0.3636,0.8777,17.21,2904.7,mobilenet_v2,host-70pct,70pct,cuda,hamta
+5,0.2431,0.9165,0.3243,0.8908,18.80,2660.1,mobilenet_v2,host-70pct,70pct,cuda,hamta

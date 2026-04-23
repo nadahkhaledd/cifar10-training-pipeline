@@ -1,0 +1,6 @@
+epoch,train_loss,train_acc,val_loss,val_acc,epoch_time_sec,throughput_img_per_sec,model,experiment_tag,sm_allocation,device,hostname
+1,1.7240,0.3169,1.4095,0.4832,26.04,1919.8,vgg16,gpu-baseline,native,cuda,9c41b2323f37
+2,1.2092,0.5648,1.0719,0.6205,25.99,1923.9,vgg16,gpu-baseline,native,cuda,9c41b2323f37
+3,0.9945,0.6540,0.8941,0.6979,26.71,1872.1,vgg16,gpu-baseline,native,cuda,9c41b2323f37
+4,0.8684,0.7083,0.8589,0.7079,26.83,1863.4,vgg16,gpu-baseline,native,cuda,9c41b2323f37
+5,0.7929,0.7357,0.7886,0.7403,27.13,1843.0,vgg16,gpu-baseline,native,cuda,9c41b2323f37
