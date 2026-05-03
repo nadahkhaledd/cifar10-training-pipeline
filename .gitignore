@@ -7,3 +7,10 @@ torch_cache/
 .DS_Store
 Thumbs.db
 *.pth
+logs/
+model_store/
+outputs/
+checkpoints/
+data/
+__pycache__/
+*.csv

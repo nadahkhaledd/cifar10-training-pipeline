@@ -1,0 +1,6 @@
+data/
+outputs/
+checkpoints/
+.git/
+__pycache__/
+*.pyc

@@ -23,7 +23,8 @@ RUN pip install --no-cache-dir --upgrade pip && \
 
 COPY train.py .
 COPY eval.py .
+COPY model_utils.py .
 
-RUN mkdir -p data outputs
+RUN mkdir -p data outputs checkpoints
 
-CMD ["python", "train.py"]
+CMD ["python", "eval.py"]
